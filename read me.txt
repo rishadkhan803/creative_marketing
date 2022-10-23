@@ -1,0 +1,25 @@
+Color: #fdc11f
+Font: poppins
+logo width: 415
+
+
+Navigation:
+home
+services
+blog
+about
+FAQ
+
+Search Option
+
+
+Header:
+Subscribe Now
+to our Newsletter
+
+Lorem30
+
+
+input name
+input mail
+send
